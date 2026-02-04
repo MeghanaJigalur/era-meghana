@@ -1,5 +1,6 @@
 name = input("Enter your name: ")
 age = input("Enter your current age: ")
+
 # Type casting (string → integer)
 age = int(age)
 # Calculate age in 2030 (2026 → 2030 = +4 years)
